@@ -7,21 +7,21 @@ It allows admins and members to collaborate, assign tasks, and track progress ea
 
 ##  Features
 
--  **Role-based access**
+ **Role-based access**
   - Admin → Add tasks, assign members, full access
   - Member → View & update their own tasks
   - Viewer → Read-only mode
 
--  **Team Members Management**
+  **Team Members Management**
   - Displays members, roles, and assigned tasks
   - Member cards with live task count
 
--  **Task Management**
+  **Task Management**
   - Add new tasks (Admin only)
   - Task list view with status selector
   - Status: *To Do, In Progress, Done*
 
--  **Responsive UI**
+  **Responsive UI**
   - Styled with Tailwind CSS
   - Works seamlessly on mobile & desktop
 
